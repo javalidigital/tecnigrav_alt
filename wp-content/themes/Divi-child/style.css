@@ -36,7 +36,7 @@ padding: 10px;
 }
 .dados-contato li {list-style: none; text-align: center; color: #28166f;}
 
-.cota {background-color: #f1c40f; color: #28166f; padding: 9px;}
+.cota {background-color: #ffff00; color: yellow; padding: 9px;}
 .cota:hover {background-color: rgb(255,114,0);   padding-top: 8px;}
 .titulo-float {font-style: italic;}
 .telfloat {text-align: left!important; padding-bottom: 4px!important;}
